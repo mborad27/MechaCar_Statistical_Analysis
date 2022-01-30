@@ -1,6 +1,6 @@
 # MechaCar: Statistical Analysis with R
 ## Project Overview
-The goal of the project is to analyze metrics that can affect the manufacturing a new car prototype and compare vehicle performance across different manufacturer lots. These metrics include vehicle length, weight, spoiler angle, ground clearance, AWD capabilities, MPG, and PSI.
+The goal of the project is to analyze metrics that can affect the manufacturing of a new car prototype and compare vehicle performance across different manufacturer lots. These metrics include vehicle length, weight, spoiler angle, ground clearance, AWD capabilities, MPG, and PSI.
 ## Linear Regression to Predict MPG
 ![linear_regression_summary](https://user-images.githubusercontent.com/92230478/151720267-f63fef08-0b6d-4634-815c-8f534e0bcd6b.png)
 * Variance of a non-random variable is usually 0. Given this fact, the intercept, vehicle_length, and ground_clearance coefficients can be said to provide a non-random amount of variance to the mpg values.
