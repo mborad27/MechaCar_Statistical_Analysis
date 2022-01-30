@@ -1,6 +1,7 @@
 # MechaCar: Statistical Analysis with R
 ## Project Overview
-The goal of the project is to analyze metrics that can affect the manufacturing of a new car prototype and compare vehicle performance across different manufacturer lots. These metrics include vehicle length, weight, spoiler angle, ground clearance, AWD capabilities, MPG, and PSI.
+Jeremy has been selected as the primary analyst for AutosRUs's data analytics team. As an employee of 10 years, he has extensive knowledge of the product. The AutosRUs executive team recognizes that the most successful automobile launches utilize data analytics in every decision making process. A few weeks into his new role, AUtosRUs's newest prototype, the MechaCar, is suffering from production troubles that are blocking the manufacturing team's progress. Jeremy and us have been called to review the production data for insights that may help the manufacturing team. We will perform multiple linear regression analysis to identify which variables predict the mpg of MechaCar, collect summary statistics on the pounds per square inch (PSI) of teh suspension coils from the manufacturing lots, run t-tests to determine if the lots are statistically different from the mean population, and design a statistical study to compare vehicle performance of the MechaCar against vehicles from other manufacturers.
+
 ## Linear Regression to Predict MPG
 ![linear_regression_summary](https://user-images.githubusercontent.com/92230478/151720267-f63fef08-0b6d-4634-815c-8f534e0bcd6b.png)
 * Variance of a non-random variable is usually 0. Given this fact, the intercept, vehicle_length, and ground_clearance coefficients can be said to provide a non-random amount of variance to the mpg values.
